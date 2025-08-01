@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Script files
-script.txt
+sdk/script.txt
