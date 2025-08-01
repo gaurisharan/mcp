@@ -7,7 +7,8 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+
 
 # Script files
-sdk/script.txt
+1-sdk/script.txt
+2-mcp-sentiment/script.txt
