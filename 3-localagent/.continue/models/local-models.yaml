@@ -1,0 +1,14 @@
+name: LM Studio Model
+version: 0.0.1
+schema: v1
+models:
+  - provider: lmstudio
+    model: unsloth/Devstral-Small-2505-GGUF
+    name: LM Studio Devstral-Small
+    apiBase: http://localhost:1234/v1
+    roles:
+      - chat
+      - edit
+
+
+      
